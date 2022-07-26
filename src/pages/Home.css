@@ -1,0 +1,14 @@
+.heading{
+    font-size: xx-large;
+    text-align: center;
+    text-decoration: underline;
+}
+.product{
+    box-sizing: border-box;
+    font-size: x-large;
+    text-align: center;
+    background: lightblue;
+}
+.sect{
+    background:lightpink;
+}
